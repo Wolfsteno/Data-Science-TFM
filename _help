@@ -1,0 +1,2 @@
+Comando de CMD para listar todos los directorios y archivos en el directorio actual
+dir /s
