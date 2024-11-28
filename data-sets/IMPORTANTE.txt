@@ -1,0 +1,6 @@
+Los directorios "WIN" y "MACOSX" están vacíos porque los archivos de gran tamaño (los datasets) no pueden subirse al repositorio de GitHub.
+
+Por lo tanto, descarga los datasets desde el siguiente enlace y muévelos manualmente a las carpetas correspondientes.
+
+Enlace al Google drive original de Nuclio:
+https://drive.google.com/drive/folders/15cY_WrMG5DqyiV3L85d3I6KE-CEkFURR

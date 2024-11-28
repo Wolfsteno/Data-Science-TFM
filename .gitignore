@@ -1,0 +1,40 @@
+# Node.js dependencies (if applicable)
+node_modules/
+*.log
+
+# Ignore Mac system files
+.DS_Store
+MACOSX/
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore CSV files
+*.csv
+
+# VS Code settings
+.vscode/
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Ignore PDFs and large binary files (optional)
+*.pdf
+
+# Ignore MACOSX and WIN folders inside data-sets
+data-sets/MACOSX/
+data-sets/WIN/
+
+# Ignore Git-related files
+.git/
