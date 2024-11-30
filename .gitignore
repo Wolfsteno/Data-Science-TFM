@@ -29,9 +29,6 @@ __pycache__/
 *.swp
 *.swo
 
-# Ignore PDFs and large binary files (optional)
-*.pdf
-
 # Ignore MACOSX and WIN folders inside data-sets
 data-sets/MACOSX/
 data-sets/WIN/
