@@ -4,3 +4,21 @@ Por lo tanto, descarga los datasets desde el siguiente enlace y muévelos manual
 
 Enlace al Google drive original de Nuclio:
 https://drive.google.com/drive/folders/15cY_WrMG5DqyiV3L85d3I6KE-CEkFURR
+
+Create dos carpetas y en cada una pones los archivos adecuados, tal que asi:
+data-sets
+    │   .DS_Store
+    │   first_steps_dsmarket.ipynb
+    │   IMPORTANTE.txt
+    │
+    ├───WIN
+    │       daily_calendar_with_events.csv
+    │       item_prices.csv
+    │       item_sales.csv
+    │
+    └───MAC
+            ._daily_calendar_with_events.csv
+            ._item_prices.csv
+            ._item_sales.csv
+
+*NOTA: Si quieres puedes crear solo el directorio de tu OS, yo utilizo Windows asi que solo creo la carpeta de WIN y ahi dentro los csv para WIN
